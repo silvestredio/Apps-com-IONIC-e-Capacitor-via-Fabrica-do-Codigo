@@ -18,21 +18,19 @@
 
 ## [Código fonte no **Github IonicCapacitorCamera**](https://github.com/fabricadecodigo/IonicCapacitorCamera)
 
-
 ## Demais informações
-
 
 ## [Capacitor A cross-platform native runtime for web apps.](https://capacitorjs.com/)
 
 ## [Capacitor x Cordova Cordova and PhoneGap](https://capacitorjs.com/docs/cordova)
 
-
 ## Ambiente de Desenvolvimento
 
-
 ## [PWA Elements](https://capacitorjs.com/docs/web/pwa-elements)
+## [Documentação do Electron](https://www.electronjs.org/docs)
+
+## ➡️ [Sugestão de conteúdo](https://forms.gle/Dsvwyxs31cJnC23k8) 
 
 ## [Capacitor Android Documentation](https://capacitorjs.com/docs/android)
 
 ## [Capacitor iOS Documentation](https://capacitorjs.com/docs/ios)
-
