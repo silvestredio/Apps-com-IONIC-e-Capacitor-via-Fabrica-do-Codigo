@@ -15,3 +15,14 @@
 - Integrar o capacitor em um projeto Ionic
 
 - Exemplo de utilização da câmera
+
+## [Código fonte no **Github IonicCapacitorCamera**](https://github.com/fabricadecodigo/IonicCapacitorCamera)
+
+
+## Demais informações
+
+
+## [Capacitor A cross-platform native runtime for web apps.](https://capacitorjs.com/)
+
+## [Capacitor x Cordova Cordova and PhoneGap](https://capacitorjs.com/docs/cordova)
+
