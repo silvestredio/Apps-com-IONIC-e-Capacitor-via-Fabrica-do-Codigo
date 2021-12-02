@@ -26,3 +26,13 @@
 
 ## [Capacitor x Cordova Cordova and PhoneGap](https://capacitorjs.com/docs/cordova)
 
+
+## Ambiente de Desenvolvimento
+
+
+## [PWA Elements](https://capacitorjs.com/docs/web/pwa-elements)
+
+## [Capacitor Android Documentation](https://capacitorjs.com/docs/android)
+
+## [Capacitor iOS Documentation](https://capacitorjs.com/docs/ios)
+
